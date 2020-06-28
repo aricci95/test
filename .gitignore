@@ -13,4 +13,7 @@
 .phpunit
 .phpunit.result.cache
 /phpunit.xml
+symfony.exe
+.php_cs.cache
+.vscode
 ###< symfony/phpunit-bridge ###
